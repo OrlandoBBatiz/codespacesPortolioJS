@@ -4,7 +4,12 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
 
-html,
+html{
+  /*
+  * add a smooth transition to the scroll behavior
+  */
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Montserrat", sans-serif;
   height: 100%;
@@ -12,6 +17,15 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+}
+
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
 }
 
 div#main {
