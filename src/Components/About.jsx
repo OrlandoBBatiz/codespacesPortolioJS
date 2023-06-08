@@ -22,7 +22,7 @@ const description =
  */
 const skillsList = [
   "Web Development",
-  "Windos Subsystem for Linux",
+  "Winddows Subsystem for Linux",
   "Raspberry Pi",
   "Arduino",
   "IoT",

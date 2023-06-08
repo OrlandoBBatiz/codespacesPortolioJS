@@ -9,7 +9,7 @@ import React from "react";
 import arrowSvg from "../images/down-arrow.svg";
 import PropTypes from "prop-types";
 
-import image from "../images/bannerOrlandoBatiz.png";
+import image from "../images/interviewOrlandoB.jpeg";
 
 const imageAltText = "Adult Male in a presentation";
 
