@@ -24,14 +24,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Orlando Batiz",
-  title: "Gold MSFTStudent Ambassador",
+  name: "",
+  title: "",
   email: "b.orlando.batiz@gmail.com",
   gitHub: "orlandobbatiz",
-  instagram: "@OrlandoBatiz",
-  linkedIn: "/in/orlandobatiz",
-  twitter: "@OrlandoBatiz",
-  youTube: "@OrlandoBatiz",
+  instagram: "orlando_batiz",
+  linkedIn: "orlandobatiz",
+  twitter: "OrlandoBatiz",
+  youTube: "OrlandoBatiz",
 };
 
 const primaryColor = "#4E567E";
